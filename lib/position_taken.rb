@@ -1,5 +1,5 @@
 # code your #position_taken? method here!
-position_taken?(position)
+position_taken?(board, position)
   if board[position] == " " board[position] || == ""
     return false
   end
