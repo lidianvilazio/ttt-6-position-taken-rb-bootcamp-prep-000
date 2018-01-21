@@ -4,5 +4,4 @@ position_taken?(board, position)
     return false
   end
   return true
-
 end
